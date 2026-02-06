@@ -2,7 +2,7 @@ const KOMIK = [
   {
     id: 0,
     judul: "When The System Opens After The Age Of 100, All Grandchildren Kneel Upon The Mountains!",
-    cover: "https://i.postimg.cc/hjPrzPzg/When-The-System-Opens-After-The-Age-Of-100-193x278.webp",
+    cover: "https://files.catbox.moe/v74xkm.webp",
     deskripsi: "Xiao Chen, seorang pelintas waktu yang hampir berusia seratus tahun, sedang bersiap-siap dengan tenang untuk menghabiskan sisa hidupnya. Tiba-tiba, sebuah sistem aktif, memberinya hadiah atas kelahiran anak dalam keluarganya. Tidak hanya kekuatannya akan meningkat, tetapi umurnya juga akan bertambah! 'Berkembang biak, cepat berkembang biak!' ucapnya. 'Semua anggota keluarga, tanpa memandang usia atau jenis kelamin, beranak, beranak, terus beranak!'",
     chapter: [
       {
@@ -125,3 +125,4 @@ const KOMIK = [
     ]
   }
 ];
+
